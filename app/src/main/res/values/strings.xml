@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">CardioCareApp</string>
+
+    <string name="patient">Patient</string>
+    <string name="doctor">Doctor</string>
+    <string name="nurse">Nurse</string>
+    <string name="consultant">Consultant</string>
+    <string name="technician">Technician</string>
+    <string name="icu_report">ICU Report</string>
+
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+
+    <!-- defining the array for spinner -->
+    <array name="gender">
+        <item>Male</item>
+        <item>Female</item>
+    </array>
+
+    <!-- defining the array for spinner -->
+    <array name="status">
+        <item>Active</item>
+        <item>Inactive</item>
+    </array>
+
+    <!-- defining the array for spinner -->
+    <array name="number">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </array>
+
+    <!-- defining the array for spinner -->
+    <array name="role">
+        <item>Main Consultant</item>
+        <item>Assistant Consultant</item>
+    </array>
+
+</resources>
